@@ -1,4 +1,3 @@
 # Hello-world
-First Repository
-*try this*
-## Let's try this header
+*This is my first repository*
+## Table of Contents
